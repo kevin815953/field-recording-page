@@ -1,0 +1,729 @@
+{
+  "format": "penghu-field-notes-published",
+  "version": 1,
+  "slides": [
+    {
+      "id": "28542a98-a925-438e-abdc-ece158a78a77",
+      "type": "photo",
+      "chapter": "Field recording",
+      "title": "錄下來以後呢？ ",
+      "body": "田野錄音與電子聲響的各種可能",
+      "note": "照片：李采唐",
+      "location": "",
+      "audioName": "",
+      "demo": false,
+      "textPhotoMode": "paired",
+      "photos": [
+        {
+          "id": "c347fd08-ca44-49ed-902b-156e9c3db36c",
+          "name": "C369DA2D-7D02-4527-9DB1-D934FFF9F70D.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 94.588390767333,
+            "x": 0,
+            "y": 0
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/f855bbe75ec95ca734e0bea9.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 2736004,
+            "sha256": "f855bbe75ec95ca734e0bea966d1e73021b6aa786cfdeacfa17121ada8cf2574"
+          }
+        }
+      ],
+      "toolsReady": true,
+      "audioMedia": null,
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "af35075c-83f5-4dec-8717-8665c7053b9a",
+      "type": "photo",
+      "chapter": "Field recording",
+      "title": "莊勝凱",
+      "body": "\n澎湖人\n喜歡以聲音認識世界，作品橫跨實驗電子音樂、聲音設計與配樂創作，長期於澎湖進行田野錄音。2024年完成首次日本巡演後推出首張個人電子專輯《Cephalopod》，常以模組合成器即興演奏與各領域藝術家合作展演。",
+      "note": "照片：李采唐",
+      "location": "",
+      "audioName": "",
+      "demo": false,
+      "photos": [
+        {
+          "id": "0a6e2215-0f37-4bb1-9a54-70202d6ba58d",
+          "name": "74F342AF-7B02-4BF6-80FC-061356A99433.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 100,
+            "x": 0,
+            "y": 43.24762183820324
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/9779d503ec276c9c2a6c245e.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 1442318,
+            "sha256": "9779d503ec276c9c2a6c245e4869c2b452e60fcd3fd413768981a5b5b248ce52"
+          }
+        }
+      ],
+      "textPhotoMode": "paired",
+      "toolsReady": true,
+      "audioMedia": null,
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "50fd03ef-4930-4b1d-ad3f-cddcaf7b4103",
+      "type": "photo",
+      "chapter": "Field recording",
+      "title": "為什麼想錄音?",
+      "body": "環境變遷；聲音保存\n理解世界的一種方式\n",
+      "note": "",
+      "location": "",
+      "audioName": "",
+      "demo": false,
+      "photos": [
+        {
+          "id": "39b4d560-78dd-4fcd-97ef-b7cfafc7ccd0",
+          "name": "IMG_6983.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 48,
+            "x": 100,
+            "y": 50
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/b2835d7c19cb48b87ae40dc3.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 1935952,
+            "sha256": "b2835d7c19cb48b87ae40dc313f1bcf0cf40ac8000123de68b245abd9ed67593"
+          }
+        }
+      ],
+      "toolsReady": true,
+      "audioMedia": null,
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "b87868f7-4cb6-43fd-93be-4505a46a0d82",
+      "type": "photo",
+      "chapter": "Field recording",
+      "title": "視覺想像的延伸",
+      "body": "田野錄音與電子聲響的各種可能",
+      "note": "潮間帶",
+      "location": "",
+      "audioName": "202608141717_通梁村潮間帶.wav",
+      "demo": false,
+      "photos": [
+        {
+          "id": "d5c80cc2-6ed7-47f0-b014-1a83b5a04eb5",
+          "name": "202608141717_通梁村潮間帶.png",
+          "fit": "cover",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 100
+          },
+          "layout": {
+            "width": 48,
+            "x": 100,
+            "y": 50
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/7ca6662850772914003a3398.png"
+            ],
+            "type": "image/png",
+            "bytes": 16309296,
+            "sha256": "7ca6662850772914003a33987bbcba17ff67c3aaa1fe527e4e9b9d2fdb956593"
+          }
+        }
+      ],
+      "audioLoop1": {
+        "start": 0,
+        "end": 0,
+        "enabled": false
+      },
+      "audioLoop2": {
+        "start": 0,
+        "end": 0,
+        "enabled": false
+      },
+      "audioVolume1": 0.87,
+      "audioName2": "",
+      "audioVolume2": 0.92,
+      "toolsReady": true,
+      "textPhotoMode": "paired",
+      "audioMedia": {
+        "parts": [
+          "assets/546b7e62425c4663feffcff1.part001",
+          "assets/546b7e62425c4663feffcff1.part002",
+          "assets/546b7e62425c4663feffcff1.part003",
+          "assets/546b7e62425c4663feffcff1.part004",
+          "assets/546b7e62425c4663feffcff1.part005"
+        ],
+        "type": "audio/wav",
+        "bytes": 94342220,
+        "sha256": "546b7e62425c4663feffcff1d616ef6babcb0287c2e2eb97f48e0511ed9a2ab8"
+      },
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "29f16a81-5387-4337-8e6d-ee679a752939",
+      "type": "photo",
+      "chapter": "Field recording",
+      "title": "",
+      "body": "",
+      "note": "",
+      "location": "Penghu / 澎湖龍門",
+      "audioName": "202509251229_龍門六號風電機正下方節錄.wav",
+      "demo": false,
+      "photos": [
+        {
+          "id": "32391153-dab9-4022-99e6-9df13eeec5d9",
+          "name": "202509251229_龍門六號風電機正下方.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 48,
+            "x": 0,
+            "y": 0
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/fda4cdb2152d80d482a241a9.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 1088188,
+            "sha256": "fda4cdb2152d80d482a241a9f118bef9ed331e47f84aa998f885ce2d4682ddae"
+          }
+        },
+        {
+          "id": "d62f9bc7-b318-4ec7-905c-0c22cb15fb5d",
+          "name": "IMG_0466.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 62.39676113360325,
+            "x": 100,
+            "y": 39.38653721553163
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/303aca8678f9d0d13228965b.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 1648265,
+            "sha256": "303aca8678f9d0d13228965b5a38897d2cda840ac8930ef714f8e3be521103b2"
+          }
+        }
+      ],
+      "textPhotoMode": "free",
+      "audioLoop1": {
+        "start": 0,
+        "end": 0,
+        "enabled": false
+      },
+      "toolsReady": true,
+      "audioMedia": {
+        "parts": [
+          "assets/33b3aa55f6a6e1f33214cd5a.part001",
+          "assets/33b3aa55f6a6e1f33214cd5a.part002"
+        ],
+        "type": "audio/wav",
+        "bytes": 38016690,
+        "sha256": "33b3aa55f6a6e1f33214cd5a5093e673092c9754e1a30cb1681326c5c362dfee"
+      },
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "98cf92dc-2b73-461b-998e-a729d2f8d9b9",
+      "type": "photo",
+      "chapter": "Field recording",
+      "title": "錄音後才發現的事情",
+      "body": "",
+      "note": "",
+      "location": "Penghu / 澎湖龍門",
+      "audioName": "202509251229_龍門六號風電機正下方節錄.wav",
+      "demo": false,
+      "photos": [
+        {
+          "id": "3b4c7395-20dd-41cd-a31d-6939b2a44659",
+          "name": "螢幕擷取畫面 2026-10-05 183337.png",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 100,
+            "x": 0,
+            "y": 0
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/86ff78799332e00e7388f129.png"
+            ],
+            "type": "image/png",
+            "bytes": 2239916,
+            "sha256": "86ff78799332e00e7388f1291d06d16357003483a015a105ec4df4f4ee4703c7"
+          }
+        }
+      ],
+      "textPhotoMode": "free",
+      "audioLoop1": {
+        "start": 0,
+        "end": 0,
+        "enabled": false
+      },
+      "toolsReady": true,
+      "audioMedia": {
+        "parts": [
+          "assets/33b3aa55f6a6e1f33214cd5a.part001",
+          "assets/33b3aa55f6a6e1f33214cd5a.part002"
+        ],
+        "type": "audio/wav",
+        "bytes": 38016690,
+        "sha256": "33b3aa55f6a6e1f33214cd5a5093e673092c9754e1a30cb1681326c5c362dfee"
+      },
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "0cf8696d-95fc-4ff7-8360-7a32a0e06eb8",
+      "type": "photo",
+      "chapter": "Field recording",
+      "title": "錄音後才發現的事情",
+      "body": "",
+      "note": "",
+      "location": "Penghu / 澎湖龍門",
+      "audioName": "202509251229_龍門六號風電機正下方節錄.wav",
+      "demo": false,
+      "photos": [
+        {
+          "id": "c0de6270-3e21-4f84-ba56-291e291a1379",
+          "name": "螢幕擷取畫面 2026-10-06 132911.png",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 100,
+            "x": 0,
+            "y": 9.124860800672675
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/1b2860ea4ba66baef88077b1.png"
+            ],
+            "type": "image/png",
+            "bytes": 7084318,
+            "sha256": "1b2860ea4ba66baef88077b181f468526daa1cf1d30dd59b04374ee157427c80"
+          }
+        }
+      ],
+      "textPhotoMode": "free",
+      "audioLoop1": {
+        "start": 0,
+        "end": 0,
+        "enabled": false
+      },
+      "toolsReady": true,
+      "audioMedia": {
+        "parts": [
+          "assets/33b3aa55f6a6e1f33214cd5a.part001",
+          "assets/33b3aa55f6a6e1f33214cd5a.part002"
+        ],
+        "type": "audio/wav",
+        "bytes": 38016690,
+        "sha256": "33b3aa55f6a6e1f33214cd5a5093e673092c9754e1a30cb1681326c5c362dfee"
+      },
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "9b1df805-e8d4-4220-9aae-0fe7df83c3de",
+      "type": "photo",
+      "chapter": "Field recording",
+      "title": "進入場域，開始聽。",
+      "body": "觀察、走路、等待，認識場域。",
+      "note": "風、海、潮間帶、水下。\n找什麼聲音？\n照片：李采唐\n",
+      "location": "Penghu / 澎湖",
+      "audioName": "",
+      "demo": false,
+      "photos": [
+        {
+          "id": "9da35903-a661-4198-b2ae-50cfb572a739",
+          "name": "5FB74DF0-3D51-4271-94FD-CBEF55E141E9.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 48,
+            "x": 100,
+            "y": 50
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/d91797360a93d46aed5fb849.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 3133547,
+            "sha256": "d91797360a93d46aed5fb84916766a937aed43c7fcc4b7f587f97e1622e2b56b"
+          }
+        }
+      ],
+      "toolsReady": true,
+      "audioMedia": null,
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "878c6d0d-5185-4ad4-9c72-5b0f9679971a",
+      "type": "photo",
+      "chapter": "Field recording",
+      "title": "錄音方式與聽覺",
+      "body": "",
+      "note": "",
+      "location": "Penghu / 澎湖",
+      "audioName": "石滬水上260925_002_Tr1_2.wav",
+      "demo": false,
+      "photos": [
+        {
+          "id": "32609695-1b43-429e-8260-fad42455d70d",
+          "name": "IMG_7125.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 31.332143063992994,
+            "x": 74.4267923033362,
+            "y": 0
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/316de690fe7fd0f59ba60d13.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 1295943,
+            "sha256": "316de690fe7fd0f59ba60d131d85c890b22206f7b43a629da0351c377a83dd27"
+          }
+        },
+        {
+          "id": "cc590bb0-2e8d-40e8-8904-315fae4edf48",
+          "name": "IMG_7124.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 48.02229269380215,
+            "x": 0,
+            "y": 93.9779023885342
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/51d374231e07aaf37c64e396.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 1916798,
+            "sha256": "51d374231e07aaf37c64e39606359b8e45620d0150ee24b9944a9773bb49f672"
+          }
+        },
+        {
+          "id": "c15bcf7a-dad9-40ec-a32b-dfd1b2d3254c",
+          "name": "IMG_7130.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 48,
+            "x": 0,
+            "y": 0
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/4025b0379ecaf8de90082952.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 1628183,
+            "sha256": "4025b0379ecaf8de900829527ff536ddf3d00829e348f1e159f30cdcac3eeaeb"
+          }
+        }
+      ],
+      "toolsReady": true,
+      "textPhotoMode": "free",
+      "videoName": "",
+      "audioLoop1": {
+        "start": 0,
+        "end": 0,
+        "enabled": false
+      },
+      "audioName2": "石滬水下260925_002_Tr3.wav",
+      "audioLoop2": {
+        "start": 0,
+        "end": 0,
+        "enabled": false
+      },
+      "audioVolume2": 1,
+      "audioVolume1": 0,
+      "audioMedia": {
+        "parts": [
+          "assets/7854cc299b1dd12fb4df40c5.part001",
+          "assets/7854cc299b1dd12fb4df40c5.part002"
+        ],
+        "type": "audio/wav",
+        "bytes": 28803152,
+        "sha256": "7854cc299b1dd12fb4df40c5325bac9646e8f67cb84049f0b535020774f479f5"
+      },
+      "audio2Media": {
+        "parts": [
+          "assets/52381cd9cc8b7dc1a689cf57.part001",
+          "assets/52381cd9cc8b7dc1a689cf57.part002"
+        ],
+        "type": "audio/wav",
+        "bytes": 28803152,
+        "sha256": "52381cd9cc8b7dc1a689cf574f613fa1199266939c7d06f01a5f1162aa20f0cd"
+      },
+      "videoMedia": null
+    },
+    {
+      "id": "a97894e0-f322-4674-bf2e-b852fa377786",
+      "type": "video",
+      "chapter": "Field recording",
+      "title": "",
+      "body": "",
+      "note": "",
+      "location": "Penghu / 澎湖",
+      "audioName": "",
+      "demo": true,
+      "photos": [
+        {
+          "id": "b4d63864-b34c-4a24-bb51-c732d77c22ca",
+          "name": "IMG_7125.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 36,
+            "x": 84.63939773612032,
+            "y": 0
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/316de690fe7fd0f59ba60d13.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 1295943,
+            "sha256": "316de690fe7fd0f59ba60d131d85c890b22206f7b43a629da0351c377a83dd27"
+          }
+        }
+      ],
+      "toolsReady": true,
+      "textPhotoMode": "free",
+      "videoName": "IMG_7009.mov",
+      "audioMedia": null,
+      "audio2Media": null,
+      "videoMedia": {
+        "parts": [
+          "assets/dec747b27d0616cfa8e81bad.mp4"
+        ],
+        "type": "video/mp4",
+        "bytes": 19431148,
+        "sha256": "dec747b27d0616cfa8e81bada49736eeffd59952312482a10ed98c51b589fa91"
+      }
+    },
+    {
+      "id": "9a724c10-1a9f-4de2-bab9-993db6fa01d0",
+      "type": "text",
+      "chapter": "Field recording",
+      "title": "聲音可以往哪裡發展？",
+      "body": "聆聽 → 擷取 → 變形 → 組合",
+      "note": "",
+      "location": "Penghu / 澎湖",
+      "audioName": "",
+      "demo": false,
+      "photos": [],
+      "toolsReady": true,
+      "audioMedia": null,
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "a4b8579f-a345-453b-a7a7-9d989466b814",
+      "toolsReady": true,
+      "type": "photo",
+      "chapter": "FIELD NOTES",
+      "title": "筆記",
+      "body": "",
+      "note": "",
+      "location": "Penghu / 澎湖",
+      "audioName": "",
+      "demo": false,
+      "photos": [
+        {
+          "id": "501151c0-80ac-4ee2-b0a1-a28c96cbf7e8",
+          "name": "螢幕擷取畫面 2026-10-06 161829.png",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 48,
+            "x": 100,
+            "y": 50
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/dfca3a66d1ff70d876fc4430.png"
+            ],
+            "type": "image/png",
+            "bytes": 517423,
+            "sha256": "dfca3a66d1ff70d876fc4430926b4d4229bc4054206748a08c110d7af3bff8a0"
+          }
+        }
+      ],
+      "audioMedia": null,
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "8c29a8f1-915a-4939-b07c-8de3c79b59a7",
+      "type": "tool",
+      "tool": "loom",
+      "chapter": "聲音設計",
+      "title": "Remo De Vico / LOOM",
+      "body": "https://www.remodevicocomposer.eu/",
+      "note": "https://www.remodevicocomposer.eu/",
+      "location": "Penghu / 澎湖",
+      "audioName": "",
+      "demo": false,
+      "toolsReady": true,
+      "photos": [],
+      "audioMedia": null,
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "b2c02b08-a226-4b76-a9a3-8c4d038ac18e",
+      "type": "tool",
+      "tool": "shatter",
+      "chapter": "聲音設計",
+      "title": "Remo De Vico / SHATTER",
+      "body": "https://www.remodevicocomposer.eu/",
+      "note": "",
+      "location": "Penghu / 澎湖",
+      "audioName": "",
+      "demo": false,
+      "toolsReady": true,
+      "photos": [],
+      "audioMedia": null,
+      "audio2Media": null,
+      "videoMedia": null
+    },
+    {
+      "id": "91a7ef38-9607-4cf8-bced-eb299a33af13",
+      "toolsReady": true,
+      "type": "photo",
+      "chapter": "Field recording",
+      "title": "",
+      "body": "1.聲音如何形塑個人？\n為什麼我的審美與聆聽方式會是現在這樣？\n\n2.錄音如何改變場域？\n\n3.創作能不能成為理解這些關係的方法？\n",
+      "note": "照片：李采唐",
+      "location": "Penghu / 澎湖",
+      "audioName": "",
+      "demo": false,
+      "photos": [
+        {
+          "id": "1cd88f3e-985d-4f77-883a-cd9bdc7cbe55",
+          "name": "88D6C862-140B-446C-91E5-67A85B9602D3.jpg",
+          "fit": "contain",
+          "crop": {
+            "zoom": 1,
+            "x": 50,
+            "y": 50
+          },
+          "layout": {
+            "width": 48,
+            "x": 100,
+            "y": 50
+          },
+          "aspect": "original",
+          "media": {
+            "parts": [
+              "assets/a80618f8e40fa4c87bc40942.jpg"
+            ],
+            "type": "image/jpeg",
+            "bytes": 3559763,
+            "sha256": "a80618f8e40fa4c87bc40942f8c832ee99630813d6979c0ea8abff883b387e2c"
+          }
+        }
+      ],
+      "audioMedia": null,
+      "audio2Media": null,
+      "videoMedia": null
+    }
+  ]
+}

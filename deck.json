@@ -31,11 +31,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/f855bbe75ec95ca734e0bea9.jpg"
+              "assets/7ccf990e889f1d9964e05d20.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 2736004,
-            "sha256": "f855bbe75ec95ca734e0bea966d1e73021b6aa786cfdeacfa17121ada8cf2574"
+            "bytes": 682972,
+            "sha256": "7ccf990e889f1d9964e05d20142c37fa1fefcf0bf792c8164febcf41d094e5c7"
           }
         }
       ],
@@ -72,11 +72,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/9779d503ec276c9c2a6c245e.jpg"
+              "assets/591391634aede95675b2cdd7.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 1442318,
-            "sha256": "9779d503ec276c9c2a6c245e4869c2b452e60fcd3fd413768981a5b5b248ce52"
+            "bytes": 231630,
+            "sha256": "591391634aede95675b2cdd7316fe767ea510673aa647cf34b6a79ddc5daf7a9"
           }
         }
       ],
@@ -114,11 +114,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/b2835d7c19cb48b87ae40dc3.jpg"
+              "assets/69aacfcb4cad1f7301d480b7.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 1935952,
-            "sha256": "b2835d7c19cb48b87ae40dc313f1bcf0cf40ac8000123de68b245abd9ed67593"
+            "bytes": 484484,
+            "sha256": "69aacfcb4cad1f7301d480b70cd89e3ad5a21b66d39053901ade4b67284aced4"
           }
         }
       ],
@@ -155,11 +155,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/7ca6662850772914003a3398.png"
+              "assets/bfdb436c105e82b12bbfb754.jpg"
             ],
-            "type": "image/png",
-            "bytes": 16309296,
-            "sha256": "7ca6662850772914003a33987bbcba17ff67c3aaa1fe527e4e9b9d2fdb956593"
+            "type": "image/jpeg",
+            "bytes": 471918,
+            "sha256": "bfdb436c105e82b12bbfb754659fdb96c0fa40a35fc7da6bcc16e160ad7a74ed"
           }
         }
       ],
@@ -180,15 +180,11 @@
       "textPhotoMode": "paired",
       "audioMedia": {
         "parts": [
-          "assets/546b7e62425c4663feffcff1.part001",
-          "assets/546b7e62425c4663feffcff1.part002",
-          "assets/546b7e62425c4663feffcff1.part003",
-          "assets/546b7e62425c4663feffcff1.part004",
-          "assets/546b7e62425c4663feffcff1.part005"
+          "assets/99c2e11cda57d227e836ad50.mp3"
         ],
-        "type": "audio/wav",
-        "bytes": 94342220,
-        "sha256": "546b7e62425c4663feffcff1d616ef6babcb0287c2e2eb97f48e0511ed9a2ab8"
+        "type": "audio/mpeg",
+        "bytes": 13105965,
+        "sha256": "99c2e11cda57d227e836ad5075c3568281cfab4d8dc535403b63e57050b83fd5"
       },
       "audio2Media": null,
       "videoMedia": null
@@ -221,11 +217,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/fda4cdb2152d80d482a241a9.jpg"
+              "assets/0dbf01130864dad23f265147.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 1088188,
-            "sha256": "fda4cdb2152d80d482a241a9f118bef9ed331e47f84aa998f885ce2d4682ddae"
+            "bytes": 238379,
+            "sha256": "0dbf01130864dad23f26514790e258673626355bc76655f0a8f5b62ecdc523cc"
           }
         },
         {
@@ -245,11 +241,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/303aca8678f9d0d13228965b.jpg"
+              "assets/f40cdc1b048dbf0dc822966e.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 1648265,
-            "sha256": "303aca8678f9d0d13228965b5a38897d2cda840ac8930ef714f8e3be521103b2"
+            "bytes": 109221,
+            "sha256": "f40cdc1b048dbf0dc822966eda489e0cb30122c93acf74ff88d94e9c33618369"
           }
         }
       ],
@@ -262,12 +258,11 @@
       "toolsReady": true,
       "audioMedia": {
         "parts": [
-          "assets/33b3aa55f6a6e1f33214cd5a.part001",
-          "assets/33b3aa55f6a6e1f33214cd5a.part002"
+          "assets/910c27dca821925be145e6eb.mp3"
         ],
-        "type": "audio/wav",
-        "bytes": 38016690,
-        "sha256": "33b3aa55f6a6e1f33214cd5a5093e673092c9754e1a30cb1681326c5c362dfee"
+        "type": "audio/mpeg",
+        "bytes": 5282033,
+        "sha256": "910c27dca821925be145e6ebe619017bc848993315d1c01c5eaa45c0e0abe0bd"
       },
       "audio2Media": null,
       "videoMedia": null
@@ -300,11 +295,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/86ff78799332e00e7388f129.png"
+              "assets/932e055726bf8bf741e2e97f.jpg"
             ],
-            "type": "image/png",
-            "bytes": 2239916,
-            "sha256": "86ff78799332e00e7388f1291d06d16357003483a015a105ec4df4f4ee4703c7"
+            "type": "image/jpeg",
+            "bytes": 286870,
+            "sha256": "932e055726bf8bf741e2e97f246372d5ce00cbc59dcd85e998646c4102989bbd"
           }
         }
       ],
@@ -317,12 +312,11 @@
       "toolsReady": true,
       "audioMedia": {
         "parts": [
-          "assets/33b3aa55f6a6e1f33214cd5a.part001",
-          "assets/33b3aa55f6a6e1f33214cd5a.part002"
+          "assets/910c27dca821925be145e6eb.mp3"
         ],
-        "type": "audio/wav",
-        "bytes": 38016690,
-        "sha256": "33b3aa55f6a6e1f33214cd5a5093e673092c9754e1a30cb1681326c5c362dfee"
+        "type": "audio/mpeg",
+        "bytes": 5282033,
+        "sha256": "910c27dca821925be145e6ebe619017bc848993315d1c01c5eaa45c0e0abe0bd"
       },
       "audio2Media": null,
       "videoMedia": null
@@ -355,11 +349,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/1b2860ea4ba66baef88077b1.png"
+              "assets/241e98b140cf5b1ebd2f6ade.jpg"
             ],
-            "type": "image/png",
-            "bytes": 7084318,
-            "sha256": "1b2860ea4ba66baef88077b181f468526daa1cf1d30dd59b04374ee157427c80"
+            "type": "image/jpeg",
+            "bytes": 425782,
+            "sha256": "241e98b140cf5b1ebd2f6ade84bccde4005a472dea92a3e5eee4bcef8b8883c9"
           }
         }
       ],
@@ -372,12 +366,11 @@
       "toolsReady": true,
       "audioMedia": {
         "parts": [
-          "assets/33b3aa55f6a6e1f33214cd5a.part001",
-          "assets/33b3aa55f6a6e1f33214cd5a.part002"
+          "assets/910c27dca821925be145e6eb.mp3"
         ],
-        "type": "audio/wav",
-        "bytes": 38016690,
-        "sha256": "33b3aa55f6a6e1f33214cd5a5093e673092c9754e1a30cb1681326c5c362dfee"
+        "type": "audio/mpeg",
+        "bytes": 5282033,
+        "sha256": "910c27dca821925be145e6ebe619017bc848993315d1c01c5eaa45c0e0abe0bd"
       },
       "audio2Media": null,
       "videoMedia": null
@@ -410,11 +403,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/d91797360a93d46aed5fb849.jpg"
+              "assets/c00f85607a067f074399832c.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 3133547,
-            "sha256": "d91797360a93d46aed5fb84916766a937aed43c7fcc4b7f587f97e1622e2b56b"
+            "bytes": 596534,
+            "sha256": "c00f85607a067f074399832c324e850b063ec2d143859cbdaf4d50afe39afd26"
           }
         }
       ],
@@ -451,11 +444,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/316de690fe7fd0f59ba60d13.jpg"
+              "assets/d1e57733289e88a7ce005523.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 1295943,
-            "sha256": "316de690fe7fd0f59ba60d131d85c890b22206f7b43a629da0351c377a83dd27"
+            "bytes": 191121,
+            "sha256": "d1e57733289e88a7ce005523c7e7f5480ca6dc2a82e95e2aba1220b58d1d5d89"
           }
         },
         {
@@ -475,11 +468,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/51d374231e07aaf37c64e396.jpg"
+              "assets/0b719121ceb2d21d3f71c49d.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 1916798,
-            "sha256": "51d374231e07aaf37c64e39606359b8e45620d0150ee24b9944a9773bb49f672"
+            "bytes": 324350,
+            "sha256": "0b719121ceb2d21d3f71c49d42c82ce15039905619c8e96b07bb3dddc225c77a"
           }
         },
         {
@@ -499,11 +492,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/4025b0379ecaf8de90082952.jpg"
+              "assets/01ce7774f7e9ff0fe7a2407d.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 1628183,
-            "sha256": "4025b0379ecaf8de900829527ff536ddf3d00829e348f1e159f30cdcac3eeaeb"
+            "bytes": 268261,
+            "sha256": "01ce7774f7e9ff0fe7a2407d0e265d562514e2bd5e4a13011537055b66328f02"
           }
         }
       ],
@@ -525,21 +518,19 @@
       "audioVolume1": 0,
       "audioMedia": {
         "parts": [
-          "assets/7854cc299b1dd12fb4df40c5.part001",
-          "assets/7854cc299b1dd12fb4df40c5.part002"
+          "assets/d4666af20369844088ac1d92.mp3"
         ],
-        "type": "audio/wav",
-        "bytes": 28803152,
-        "sha256": "7854cc299b1dd12fb4df40c5325bac9646e8f67cb84049f0b535020774f479f5"
+        "type": "audio/mpeg",
+        "bytes": 4003245,
+        "sha256": "d4666af20369844088ac1d92ba91ca3acc2e2560832e11b019bece9d1d7bc702"
       },
       "audio2Media": {
         "parts": [
-          "assets/52381cd9cc8b7dc1a689cf57.part001",
-          "assets/52381cd9cc8b7dc1a689cf57.part002"
+          "assets/32f4ec0f66c22eeb9c48001c.mp3"
         ],
-        "type": "audio/wav",
-        "bytes": 28803152,
-        "sha256": "52381cd9cc8b7dc1a689cf574f613fa1199266939c7d06f01a5f1162aa20f0cd"
+        "type": "audio/mpeg",
+        "bytes": 4003245,
+        "sha256": "32f4ec0f66c22eeb9c48001cecf77ce4bbe93387408f7939fed01594a9a47d43"
       },
       "videoMedia": null
     },
@@ -571,11 +562,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/316de690fe7fd0f59ba60d13.jpg"
+              "assets/d1e57733289e88a7ce005523.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 1295943,
-            "sha256": "316de690fe7fd0f59ba60d131d85c890b22206f7b43a629da0351c377a83dd27"
+            "bytes": 191121,
+            "sha256": "d1e57733289e88a7ce005523c7e7f5480ca6dc2a82e95e2aba1220b58d1d5d89"
           }
         }
       ],
@@ -586,11 +577,11 @@
       "audio2Media": null,
       "videoMedia": {
         "parts": [
-          "assets/dec747b27d0616cfa8e81bad.mp4"
+          "assets/8a16875f52c0e0f7ef799e15.mp4"
         ],
         "type": "video/mp4",
-        "bytes": 19431148,
-        "sha256": "dec747b27d0616cfa8e81bada49736eeffd59952312482a10ed98c51b589fa91"
+        "bytes": 2759163,
+        "sha256": "8a16875f52c0e0f7ef799e15124ec54176a22b10dc3af6c7859945bc22fbd04d"
       }
     },
     {
@@ -638,11 +629,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/dfca3a66d1ff70d876fc4430.png"
+              "assets/89136220bfaa4394df827b70.jpg"
             ],
-            "type": "image/png",
-            "bytes": 517423,
-            "sha256": "dfca3a66d1ff70d876fc4430926b4d4229bc4054206748a08c110d7af3bff8a0"
+            "type": "image/jpeg",
+            "bytes": 328832,
+            "sha256": "89136220bfaa4394df827b705da6fa1ab29787f1994ea74673185ec8fb960b0c"
           }
         }
       ],
@@ -713,11 +704,11 @@
           "aspect": "original",
           "media": {
             "parts": [
-              "assets/a80618f8e40fa4c87bc40942.jpg"
+              "assets/bd285d82969d76d911884e32.jpg"
             ],
             "type": "image/jpeg",
-            "bytes": 3559763,
-            "sha256": "a80618f8e40fa4c87bc40942f8c832ee99630813d6979c0ea8abff883b387e2c"
+            "bytes": 675386,
+            "sha256": "bd285d82969d76d911884e32f9b39fccc56daa6e3688b8bd7dc0e412678e4680"
           }
         }
       ],
